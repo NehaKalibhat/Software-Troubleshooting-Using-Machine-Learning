@@ -1,0 +1,296 @@
+[2J[H JvmTop 0.8.0 alpha - 21:03:36,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   14m 3502m   14m   n/a 80.00%  0.00% O8U13   ubuntu   16   
+127157 tanode.DataNode   71m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   13m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:03:37,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   18m 3502m   14m   n/a 10.35%  0.00% O8U13   ubuntu   16   
+127157 tanode.DataNode   71m  889m   50m   n/a  0.24%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   13m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:03:39,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   22m 3502m   15m   n/a  2.87%  0.00% O8U13   ubuntu   16   
+127157 tanode.DataNode   72m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   13m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:03:40,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   25m 3502m   15m   n/a 11.52%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   13m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+127157 tanode.DataNode   72m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+[2J[H JvmTop 0.8.0 alpha - 21:03:41,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   28m 3502m   15m   n/a  4.58%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   14m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+127157 tanode.DataNode   72m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+[2J[H JvmTop 0.8.0 alpha - 21:03:42,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   31m 3502m   15m   n/a  6.52%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   14m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+127157 tanode.DataNode   72m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+[2J[H JvmTop 0.8.0 alpha - 21:03:43,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   35m 3502m   16m   n/a  3.35%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   14m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+127157 tanode.DataNode   72m  889m   50m   n/a  0.24%  0.00% O8U13   ubuntu   45   
+[2J[H JvmTop 0.8.0 alpha - 21:03:44,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   37m 3502m   16m   n/a  2.42%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   14m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+127157 tanode.DataNode   72m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+[2J[H JvmTop 0.8.0 alpha - 21:03:45,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   40m 3502m   16m   n/a  2.18%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   14m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+127157 tanode.DataNode   73m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+[2J[H JvmTop 0.8.0 alpha - 21:03:46,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   44m 3502m   16m   n/a  1.70%  0.00% O8U13   ubuntu   16   
+127157 tanode.DataNode   73m  889m   50m   n/a  0.24%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   14m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:03:47,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   47m 3502m   16m   n/a  1.46%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   15m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+127157 tanode.DataNode   73m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+[2J[H JvmTop 0.8.0 alpha - 21:03:48,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   51m 3502m   16m   n/a  1.21%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   15m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+127157 tanode.DataNode   73m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+[2J[H JvmTop 0.8.0 alpha - 21:03:49,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   53m 3502m   16m   n/a  3.40%  0.00% O8U13   ubuntu   16   
+127157 tanode.DataNode   73m  889m   50m   n/a  0.24%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   15m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:03:50,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   56m 3502m   16m   n/a  1.21%  0.00% O8U13   ubuntu   16   
+127157 tanode.DataNode   74m  889m   50m   n/a  0.24%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   15m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:03:51,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   60m 3502m   16m   n/a  1.21%  0.00% O8U13   ubuntu   16   
+127157 tanode.DataNode   74m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   15m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:03:52,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   63m 3502m   17m   n/a  0.97%  0.00% O8U13   ubuntu   16   
+127157 tanode.DataNode   74m  889m   50m   n/a  0.24%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   16m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:03:53,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop    5m 3502m   17m   n/a  6.77%  0.36% O8U13   ubuntu   16   
+127157 tanode.DataNode   71m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   16m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:03:54,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop    8m 3502m   17m   n/a  1.95%  0.00% O8U13   ubuntu   16   
+127157 tanode.DataNode   71m  889m   50m   n/a  0.24%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   16m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:03:55,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   12m 3502m   17m   n/a  2.19%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   16m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+127157 tanode.DataNode   72m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+[2J[H JvmTop 0.8.0 alpha - 21:03:56,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   14m 3502m   17m   n/a  1.46%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   16m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+127157 tanode.DataNode   72m  889m   50m   n/a  0.24%  0.00% O8U13   ubuntu   45   
+[2J[H JvmTop 0.8.0 alpha - 21:03:57,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   18m 3502m   17m   n/a  0.73%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   17m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+127157 tanode.DataNode   72m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+[2J[H JvmTop 0.8.0 alpha - 21:03:58,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   20m 3502m   17m   n/a  1.46%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   17m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+127157 tanode.DataNode   72m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+[2J[H JvmTop 0.8.0 alpha - 21:03:59,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   24m 3502m   17m   n/a  0.73%  0.00% O8U13   ubuntu   16   
+127157 tanode.DataNode   72m  889m   50m   n/a  0.24%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   17m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:00,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   28m 3502m   17m   n/a  1.22%  0.00% O8U13   ubuntu   16   
+127157 tanode.DataNode   72m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   17m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:01,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   30m 3502m   17m   n/a  2.92%  0.00% O8U13   ubuntu   16   
+127157 tanode.DataNode   73m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   17m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:02,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   33m 3502m   17m   n/a  2.92%  0.00% O8U13   ubuntu   16   
+127157 tanode.DataNode   73m  889m   50m   n/a  0.24%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   17m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:03,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   36m 3502m   17m   n/a  2.19%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   18m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+127157 tanode.DataNode   73m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+[2J[H JvmTop 0.8.0 alpha - 21:04:04,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   40m 3502m   17m   n/a  3.17%  0.00% O8U13   ubuntu   16   
+127157 tanode.DataNode   73m  889m   50m   n/a  0.24%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   18m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:05,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   42m 3502m   17m   n/a  0.97%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   18m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+127157 tanode.DataNode   73m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+[2J[H JvmTop 0.8.0 alpha - 21:04:06,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   46m 3502m   17m   n/a  1.22%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   18m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+127157 tanode.DataNode   73m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+[2J[H JvmTop 0.8.0 alpha - 21:04:07,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+127157 tanode.DataNode   72m  889m   50m   n/a  4.15%  0.29% O8U13   ubuntu   47   
+81106 m.jvmtop.JvmTop   48m 3502m   17m   n/a  1.22%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   18m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:08,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+127157 tanode.DataNode   72m  889m   50m   n/a  7.66%  0.08% O8U13   ubuntu   47   
+81106 m.jvmtop.JvmTop   52m 3502m   17m   n/a  0.73%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   19m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:09,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+127157 tanode.DataNode   71m  889m   50m   n/a  5.12%  0.36% O8U13   ubuntu   47   
+81106 m.jvmtop.JvmTop   55m 3502m   17m   n/a  0.98%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   19m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:10,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+127157 tanode.DataNode   72m  889m   50m   n/a 10.77%  0.11% O8U13   ubuntu   47   
+81106 m.jvmtop.JvmTop   58m 3502m   17m   n/a  3.92%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   19m  889m   44m   n/a  0.25%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:11,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+127157 tanode.DataNode   73m  889m   50m   n/a 10.79%  0.06% O8U13   ubuntu   47   
+81106 m.jvmtop.JvmTop   61m 3502m   17m   n/a  0.98%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   19m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:13,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.17
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+127157 tanode.DataNode   74m  889m   50m   n/a 11.25%  0.11% O8U13   ubuntu   47   
+81106 m.jvmtop.JvmTop   65m 3502m   17m   n/a  0.73%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   19m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:14,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.17
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+127157 tanode.DataNode   73m  889m   50m   n/a  8.29%  0.15% O8U13   ubuntu   47   
+81106 m.jvmtop.JvmTop    6m 3502m   17m   n/a  1.22%  1.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   19m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:15,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.17
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+127157 tanode.DataNode   72m  889m   50m   n/a  6.10%  0.10% O8U13   ubuntu   45   
+81106 m.jvmtop.JvmTop    9m 3502m   17m   n/a  1.22%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   20m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:16,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.17
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+127157 tanode.DataNode   72m  889m   50m   n/a 11.24%  0.11% O8U13   ubuntu   47   
+81106 m.jvmtop.JvmTop   12m 3502m   17m   n/a  0.73%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   20m  889m   44m   n/a  0.24%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:17,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.17
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+127157 tanode.DataNode   72m  889m   50m   n/a 10.48%  0.12% O8U13   ubuntu   47   
+81106 m.jvmtop.JvmTop   16m 3502m   17m   n/a  1.46%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   20m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:18,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.23
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+127157 tanode.DataNode   72m  889m   50m   n/a  9.28%  0.13% O8U13   ubuntu   45   
+81106 m.jvmtop.JvmTop   18m 3502m   17m   n/a  1.71%  0.00% O8U13   ubuntu   16   
+127290 ger.NodeManager   20m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+[2J[H JvmTop 0.8.0 alpha - 21:04:19,  amd64,  4 cpus, Linux 4.4.0-31-, load avg 0.23
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+81106 m.jvmtop.JvmTop   22m 3502m   17m   n/a  0.73%  0.00% O8U13   ubuntu   16   
+127157 tanode.DataNode   72m  889m   50m   n/a  0.00%  0.00% O8U13   ubuntu   45   
+127290 ger.NodeManager   20m  889m   44m   n/a  0.00%  0.00% O8U13   ubuntu   67   
+TIME:43.6466708183,CODE:0
+STOP

@@ -1,0 +1,5 @@
+#!/bin/bash
+python normal.py
+python rand_misconfig.py
+python format_slave.py Normal >> slave1_all_data.csv
+python format_slave.py 1 >> slave1_all_data.csv

@@ -1,0 +1,2704 @@
+[2J[H JvmTop 0.8.0 alpha - 21:03:35,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   14m   n/a 75.00%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   25m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:37,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   14m   n/a  9.32%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:38,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   15m   n/a  8.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.23%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.23%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:39,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   15m   n/a 10.26%  0.17% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.48%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:40,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   10m 1257m   15m   n/a  2.66%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:41,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   16m   n/a  9.59%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   26m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:42,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   16m   n/a  3.58%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:43,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   16m   n/a  2.39%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:44,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   16m   n/a  3.57%  0.67% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:45,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    8m 1257m   16m   n/a  1.92%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:46,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   12m 1257m   16m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:48,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   16m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:49,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   20m 1257m   17m   n/a  1.67%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:50,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   24m 1257m   17m   n/a  2.16%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:51,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  2.39%  0.75% O8U13   ubuntu   18   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:52,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:53,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   17m   n/a  5.28%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:54,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:55,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   17m   n/a  3.38%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:56,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  3.11%  0.77% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:57,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  3.86%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:58,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  5.99%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:59,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  1.68%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:00,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  5.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:01,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  1.21%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:02,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  0.49%  2.50% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.25%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   30m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:03,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  2.20%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:04,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.20%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:05,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   42m  889m   36m   n/a  0.24%  5.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:06,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  0.73%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:07,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  1.23%  1.50% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:08,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  0.49%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   32m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:09,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  1.22%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:10,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  7.50% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:11,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:12,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:13,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  1.68%  2.14% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:14,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.49%  6.25% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+[2J[H JvmTop 0.8.0 alpha - 21:04:15,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:17,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  2.41%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:18,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   34m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:19,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   17m   n/a  1.20%  1.00% O8U13   ubuntu   18   
+10375 ResourceManager   34m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   31m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+TIME:5.57130599022,CODE:0
+STOP
+[2J[H JvmTop 0.8.0 alpha - 21:03:35,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   14m   n/a 75.00%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   25m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:37,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   14m   n/a  9.32%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:38,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   15m   n/a  8.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.23%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.23%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:39,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   15m   n/a 10.26%  0.17% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.48%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:40,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   10m 1257m   15m   n/a  2.66%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:41,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   16m   n/a  9.59%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   26m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:42,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   16m   n/a  3.58%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:43,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   16m   n/a  2.39%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:44,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   16m   n/a  3.57%  0.67% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:45,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    8m 1257m   16m   n/a  1.92%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:46,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   12m 1257m   16m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:48,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   16m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:49,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   20m 1257m   17m   n/a  1.67%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:50,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   24m 1257m   17m   n/a  2.16%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:51,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  2.39%  0.75% O8U13   ubuntu   18   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:52,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:53,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   17m   n/a  5.28%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:54,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:55,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   17m   n/a  3.38%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:56,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  3.11%  0.77% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:57,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  3.86%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:58,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  5.99%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:59,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  1.68%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:00,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  5.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:01,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  1.21%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:02,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  0.49%  2.50% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.25%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   30m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:03,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  2.20%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:04,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.20%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:05,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   42m  889m   36m   n/a  0.24%  5.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:06,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  0.73%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:07,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  1.23%  1.50% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:08,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  0.49%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   32m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:09,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  1.22%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:10,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  7.50% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:11,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:12,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:13,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  1.68%  2.14% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:14,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.49%  6.25% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+[2J[H JvmTop 0.8.0 alpha - 21:04:15,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:17,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  2.41%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:18,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   34m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:19,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   17m   n/a  1.20%  1.00% O8U13   ubuntu   18   
+10375 ResourceManager   34m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   31m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+TIME:5.59036803246,CODE:0
+STOP
+[2J[H JvmTop 0.8.0 alpha - 21:03:35,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   14m   n/a 75.00%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   25m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:37,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   14m   n/a  9.32%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:38,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   15m   n/a  8.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.23%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.23%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:39,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   15m   n/a 10.26%  0.17% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.48%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:40,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   10m 1257m   15m   n/a  2.66%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:41,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   16m   n/a  9.59%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   26m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:42,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   16m   n/a  3.58%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:43,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   16m   n/a  2.39%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:44,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   16m   n/a  3.57%  0.67% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:45,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    8m 1257m   16m   n/a  1.92%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:46,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   12m 1257m   16m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:48,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   16m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:49,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   20m 1257m   17m   n/a  1.67%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:50,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   24m 1257m   17m   n/a  2.16%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:51,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  2.39%  0.75% O8U13   ubuntu   18   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:52,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:53,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   17m   n/a  5.28%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:54,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:55,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   17m   n/a  3.38%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:56,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  3.11%  0.77% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:57,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  3.86%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:58,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  5.99%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:59,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  1.68%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:00,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  5.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:01,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  1.21%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:02,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  0.49%  2.50% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.25%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   30m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:03,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  2.20%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:04,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.20%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:05,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   42m  889m   36m   n/a  0.24%  5.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:06,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  0.73%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:07,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  1.23%  1.50% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:08,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  0.49%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   32m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:09,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  1.22%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:10,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  7.50% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:11,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:12,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:13,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  1.68%  2.14% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:14,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.49%  6.25% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+[2J[H JvmTop 0.8.0 alpha - 21:04:15,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:17,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  2.41%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:18,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   34m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:19,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   17m   n/a  1.20%  1.00% O8U13   ubuntu   18   
+10375 ResourceManager   34m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   31m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+TIME:0.885498046875,CODE:0
+STOP
+[2J[H JvmTop 0.8.0 alpha - 21:03:35,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   14m   n/a 75.00%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   25m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:37,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   14m   n/a  9.32%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:38,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   15m   n/a  8.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.23%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.23%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:39,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   15m   n/a 10.26%  0.17% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.48%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:40,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   10m 1257m   15m   n/a  2.66%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:41,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   16m   n/a  9.59%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   26m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:42,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   16m   n/a  3.58%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:43,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   16m   n/a  2.39%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:44,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   16m   n/a  3.57%  0.67% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:45,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    8m 1257m   16m   n/a  1.92%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:46,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   12m 1257m   16m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:48,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   16m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:49,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   20m 1257m   17m   n/a  1.67%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:50,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   24m 1257m   17m   n/a  2.16%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:51,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  2.39%  0.75% O8U13   ubuntu   18   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:52,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:53,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   17m   n/a  5.28%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:54,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:55,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   17m   n/a  3.38%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:56,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  3.11%  0.77% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:57,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  3.86%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:58,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  5.99%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:59,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  1.68%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:00,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  5.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:01,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  1.21%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:02,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  0.49%  2.50% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.25%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   30m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:03,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  2.20%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:04,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.20%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:05,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   42m  889m   36m   n/a  0.24%  5.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:06,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  0.73%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:07,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  1.23%  1.50% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:08,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  0.49%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   32m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:09,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  1.22%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:10,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  7.50% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:11,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:12,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:13,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  1.68%  2.14% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:14,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.49%  6.25% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+[2J[H JvmTop 0.8.0 alpha - 21:04:15,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:17,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  2.41%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:18,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   34m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:19,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   17m   n/a  1.20%  1.00% O8U13   ubuntu   18   
+10375 ResourceManager   34m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   31m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+TIME:1.87372612953,CODE:0
+STOP
+[2J[H JvmTop 0.8.0 alpha - 21:03:35,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   14m   n/a 75.00%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   25m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:37,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   14m   n/a  9.32%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:38,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   15m   n/a  8.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.23%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.23%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:39,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   15m   n/a 10.26%  0.17% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.48%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:40,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   10m 1257m   15m   n/a  2.66%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:41,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   16m   n/a  9.59%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   26m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:42,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   16m   n/a  3.58%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:43,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   16m   n/a  2.39%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:44,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   16m   n/a  3.57%  0.67% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:45,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    8m 1257m   16m   n/a  1.92%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:46,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   12m 1257m   16m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:48,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   16m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:49,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   20m 1257m   17m   n/a  1.67%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:50,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   24m 1257m   17m   n/a  2.16%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:51,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  2.39%  0.75% O8U13   ubuntu   18   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:52,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:53,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   17m   n/a  5.28%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:54,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:55,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   17m   n/a  3.38%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:56,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  3.11%  0.77% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:57,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  3.86%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:58,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  5.99%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:59,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  1.68%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:00,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  5.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:01,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  1.21%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:02,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  0.49%  2.50% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.25%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   30m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:03,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  2.20%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:04,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.20%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:05,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   42m  889m   36m   n/a  0.24%  5.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:06,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  0.73%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:07,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  1.23%  1.50% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:08,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  0.49%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   32m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:09,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  1.22%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:10,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  7.50% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:11,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:12,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:13,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  1.68%  2.14% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:14,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.49%  6.25% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+[2J[H JvmTop 0.8.0 alpha - 21:04:15,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:17,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  2.41%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:18,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   34m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:19,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   17m   n/a  1.20%  1.00% O8U13   ubuntu   18   
+10375 ResourceManager   34m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   31m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+TIME:32.0191860199,CODE:0
+STOP
+[2J[H JvmTop 0.8.0 alpha - 21:03:35,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   14m   n/a 75.00%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   25m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:37,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   14m   n/a  9.32%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:38,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   15m   n/a  8.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.23%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.23%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:39,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   15m   n/a 10.26%  0.17% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.48%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:40,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   10m 1257m   15m   n/a  2.66%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:41,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   16m   n/a  9.59%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   26m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:42,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   16m   n/a  3.58%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:43,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   16m   n/a  2.39%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:44,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   16m   n/a  3.57%  0.67% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:45,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    8m 1257m   16m   n/a  1.92%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:46,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   12m 1257m   16m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:48,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   16m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:49,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   20m 1257m   17m   n/a  1.67%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:50,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   24m 1257m   17m   n/a  2.16%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:51,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  2.39%  0.75% O8U13   ubuntu   18   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:52,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:53,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   17m   n/a  5.28%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:54,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:55,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   17m   n/a  3.38%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:56,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  3.11%  0.77% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:57,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  3.86%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:58,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  5.99%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:59,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  1.68%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:00,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  5.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:01,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  1.21%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:02,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  0.49%  2.50% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.25%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   30m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:03,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  2.20%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:04,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.20%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:05,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   42m  889m   36m   n/a  0.24%  5.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:06,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  0.73%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:07,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  1.23%  1.50% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:08,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  0.49%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   32m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:09,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  1.22%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:10,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  7.50% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:11,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:12,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:13,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  1.68%  2.14% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:14,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.49%  6.25% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+[2J[H JvmTop 0.8.0 alpha - 21:04:15,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:17,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  2.41%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:18,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   34m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:19,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   17m   n/a  1.20%  1.00% O8U13   ubuntu   18   
+10375 ResourceManager   34m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   31m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+TIME:4.57220983505,CODE:0
+STOP
+[2J[H JvmTop 0.8.0 alpha - 21:03:35,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   14m   n/a 75.00%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   25m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:37,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   14m   n/a  9.32%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:38,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   15m   n/a  8.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.23%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.23%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:39,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   15m   n/a 10.26%  0.17% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.48%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:40,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   10m 1257m   15m   n/a  2.66%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:41,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   16m   n/a  9.59%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   26m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:42,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   16m   n/a  3.58%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:43,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   16m   n/a  2.39%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:44,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   16m   n/a  3.57%  0.67% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:45,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    8m 1257m   16m   n/a  1.92%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:46,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   12m 1257m   16m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:48,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   16m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:49,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   20m 1257m   17m   n/a  1.67%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:50,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   24m 1257m   17m   n/a  2.16%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:51,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  2.39%  0.75% O8U13   ubuntu   18   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:52,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:53,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   17m   n/a  5.28%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:54,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:55,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   17m   n/a  3.38%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:56,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  3.11%  0.77% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:57,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  3.86%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:58,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  5.99%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:59,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  1.68%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:00,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  5.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:01,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  1.21%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:02,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  0.49%  2.50% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.25%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   30m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:03,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  2.20%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:04,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.20%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:05,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   42m  889m   36m   n/a  0.24%  5.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:06,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  0.73%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:07,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  1.23%  1.50% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:08,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  0.49%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   32m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:09,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  1.22%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:10,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  7.50% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:11,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:12,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:13,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  1.68%  2.14% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:14,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.49%  6.25% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+[2J[H JvmTop 0.8.0 alpha - 21:04:15,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:17,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  2.41%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:18,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   34m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:19,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   17m   n/a  1.20%  1.00% O8U13   ubuntu   18   
+10375 ResourceManager   34m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   31m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+TIME:1.80005908012,CODE:0
+STOP
+[2J[H JvmTop 0.8.0 alpha - 21:03:35,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   14m   n/a 75.00%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   25m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:37,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   14m   n/a  9.32%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:38,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.02
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   15m   n/a  8.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.23%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.23%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:39,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   15m   n/a 10.26%  0.17% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.48%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   37m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:40,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   10m 1257m   15m   n/a  2.66%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   26m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:41,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   16m   n/a  9.59%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   26m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:42,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   16m   n/a  3.58%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:43,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   16m   n/a  2.39%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:44,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   16m   n/a  3.57%  0.67% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:45,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    8m 1257m   16m   n/a  1.92%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   27m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   38m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:46,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   12m 1257m   16m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   27m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:48,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   16m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:49,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   20m 1257m   17m   n/a  1.67%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:50,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   24m 1257m   17m   n/a  2.16%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   28m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:51,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  2.39%  0.75% O8U13   ubuntu   18   
+10206 condaryNameNode   39m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   28m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:52,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   39m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:53,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   14m 1257m   17m   n/a  5.28%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:54,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   18m 1257m   17m   n/a  1.44%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:03:55,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   22m 1257m   17m   n/a  3.38%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:56,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  3.11%  0.77% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   29m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:57,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  3.86%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   29m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:58,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  5.99%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   40m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:03:59,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  1.68%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:00,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  5.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:01,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  1.21%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   30m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   28m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:02,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  0.49%  2.50% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.25%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   30m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:03,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.01
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  2.20%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:04,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.20%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   41m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:05,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+10206 condaryNameNode   42m  889m   36m   n/a  0.24%  5.00% O8U13   ubuntu   16   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:06,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  0.73%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.25%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:07,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.09
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    3m 1257m   17m   n/a  1.23%  1.50% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   31m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:08,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    7m 1257m   17m   n/a  0.49%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   32m  889m   49m   n/a  0.25%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:09,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   11m 1257m   17m   n/a  1.22%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   21m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:10,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   15m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  7.50% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:11,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   19m 1257m   17m   n/a  0.96%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   32m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:12,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.08
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   23m 1257m   17m   n/a  0.97%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:13,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    5m 1257m   17m   n/a  1.68%  2.14% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   16   
+[2J[H JvmTop 0.8.0 alpha - 21:04:14,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    9m 1257m   17m   n/a  1.69%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   29m  889m   59m   n/a  0.49%  6.25% O8U13   ubuntu   39   
+10206 condaryNameNode   22m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+[2J[H JvmTop 0.8.0 alpha - 21:04:15,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   13m 1257m   17m   n/a  1.46%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:17,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   17m 1257m   17m   n/a  2.41%  0.00% O8U13   ubuntu   18   
+10375 ResourceManager   33m  889m   49m   n/a  0.24%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+[2J[H JvmTop 0.8.0 alpha - 21:04:18,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop   21m 1257m   17m   n/a  1.45%  0.00% O8U13   ubuntu   18   
+ 9984 menode.NameNode   30m  889m   59m   n/a  0.24%  0.00% O8U13   ubuntu   39   
+10375 ResourceManager   34m  889m   49m   n/a  0.00%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.00%  0.00% O8U13   ubuntu   17   
+[2J[H JvmTop 0.8.0 alpha - 21:04:19,  amd64,  4 cpus, Linux 4.4.0-83-, load avg 0.07
+ http://code.google.com/p/jvmtop
+
+  PID MAIN-CLASS      HPCUR HPMAX NHCUR NHMAX    CPU     GC    VM USERNAME   #T DL
+ 2289 m.jvmtop.JvmTop    4m 1257m   17m   n/a  1.20%  1.00% O8U13   ubuntu   18   
+10375 ResourceManager   34m  889m   49m   n/a  0.48%  0.00% O8U13   ubuntu  196   
+10206 condaryNameNode   23m  889m   36m   n/a  0.24%  0.00% O8U13   ubuntu   17   
+ 9984 menode.NameNode   31m  889m   59m   n/a  0.00%  0.00% O8U13   ubuntu   39   
+TIME:1.94084715843,CODE:0
+STOP

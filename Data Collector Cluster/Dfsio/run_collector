@@ -1,0 +1,10 @@
+#!/bin/bash
+#python normal.py
+python rand_misconfig.py
+#python format_master.py 0_0_0 >> master_all_data.csv
+#python format_slave.py 0_0_0 >> slave1_all_data.csv
+python format_slave2.py 0_0_0 >> slave2_all_data.csv
+#python format_master.py 1_0_0 >> master_all_data.csv
+#python format_slave.py 0_1_0 >> slave1_all_data.csv
+python format_slave2.py 0_0_1 >> slave2_all_data.csv
+

@@ -1,0 +1,16 @@
+root@172.104.56.132
+password:Pa$$w0rd
+
+root@139.162.61.80
+
+root@139.162.48.142
+
+root@172.104.50.83
+
+root@172.104.58.252
+
+172.104.56.132 HadoopMaster
+139.162.61.80 HadoopSlave1
+139.162.48.142 HadoopSlave2
+172.104.50.83 HadoopSlave3
+172.104.58.252 HadoopSlave4
